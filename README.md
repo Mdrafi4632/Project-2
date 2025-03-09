@@ -41,7 +41,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Notes – Challenges Encountered
+- Flip Animation Issue – Initially, the card didn't flip properly due to missing perspective and backface-visibility.
+- Back Button Logic – Managing previous flashcards required tracking history correctly in the state.
+- Spacing & Layout Issues – Buttons were too close to the flashcard, making the UI look cramped.
+- Mobile Responsiveness – Initially, the app didn't scale well on smaller screens.
+- React Rendering Issues – The flashcard sometimes didn’t update correctly when clicking "Next Card."
 
 ## License
 
