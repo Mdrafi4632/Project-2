@@ -1,4 +1,5 @@
 # Project-2
+
 Codepath: Flashcards
 
 # Web Development Project 2 - *Guess the Prophet*
@@ -29,6 +30,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+
 https://imgur.com/l14ziWV
 
 ## Notes
