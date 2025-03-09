@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] Cards contain images in addition to or in place of text
-- [x] Cards have different visual styles ,such as color based on their category
+- [x] Cards have different visual styles, such as color, based on their category
   - [x] *visual style implemented*
 
 
@@ -41,8 +41,8 @@ GIF created with ...
 
 ## Notes
 
-Notes – Challenges Encountered
-- Flip Animation Issue – Initially, the card didn't flip properly due to missing perspective and backface-visibility.
+Notes – Challenges Encountered:
+- Flip Animation Issue – Initially, the card didn't flip properly due to missing perspective and backface visibility.
 - Back Button Logic – Managing previous flashcards required tracking history correctly in the state.
 - Spacing & Layout Issues – Buttons were too close to the flashcard, making the UI look cramped.
 - Mobile Responsiveness – Initially, the app didn't scale well on smaller screens.
