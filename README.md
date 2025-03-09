@@ -1,7 +1,7 @@
 # Project-2
 Codepath: Flashcards
 
-# Web Development Project 2 - *Guess the prophet*
+# Web Development Project 2 - *Guess the Prophet*
 
 Submitted by: **Md Rafi**
 
